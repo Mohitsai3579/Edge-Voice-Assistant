@@ -1,0 +1,8 @@
+torch
+transformers
+gradio
+soundfile
+scipy
+datasets
+sentencepiece
+accelerate
